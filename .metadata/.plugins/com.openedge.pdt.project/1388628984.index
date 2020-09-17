@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<libraryinfo path="C:/oeworkspace/Samples/ProceduresAndOOP/Samples" type="PathEntry" ModificationStamp="1596716763217" FullName="Samples" lib_header_magic_number="2384638594569" lib_header_version="15">
+	<procedures>
+		<relative path="">
+			<procedure name="AddNumbers" SourceFilePath="C:/oeworkspace/Samples/ProceduresAndOOP/Samples/AddNumbers.p" RfilePath="C:/oeworkspace/Samples/ProceduresAndOOP/Samples/AddNumbers.r"></procedure>
+			<procedure name="Power" SourceFilePath="C:/oeworkspace/Samples/ProceduresAndOOP/Samples/Power.p" RfilePath="C:/oeworkspace/Samples/ProceduresAndOOP/Samples/Power.r"></procedure>
+		</relative>
+	</procedures>
+	<classes>
+	</classes>
+</libraryinfo>

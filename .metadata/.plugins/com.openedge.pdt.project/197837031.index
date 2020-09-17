@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<libraryinfo path="C:/oeworkspace/OOABL_Samples/ProceduresAndOOP" type="PathEntry" ModificationStamp="1600329461373" FullName="ProceduresAndOOP" lib_header_magic_number="2384638594569" lib_header_version="15">
+	<procedures>
+		<relative path="">
+			<procedure name="RunForm1" SourceFilePath="C:/oeworkspace/OOABL_Samples/ProceduresAndOOP/RunForm1.p" RfilePath="C:/oeworkspace/OOABL_Samples/ProceduresAndOOP/RunForm1.r"></procedure>
+		</relative>
+		<relative path="Samples">
+			<procedure name="AddNumbers" SourceFilePath="C:/oeworkspace/OOABL_Samples/ProceduresAndOOP/Samples/AddNumbers.p" RfilePath="C:/oeworkspace/OOABL_Samples/ProceduresAndOOP/Samples/AddNumbers.r"></procedure>
+			<procedure name="Power" SourceFilePath="C:/oeworkspace/OOABL_Samples/ProceduresAndOOP/Samples/Power.p" RfilePath="C:/oeworkspace/OOABL_Samples/ProceduresAndOOP/Samples/Power.r"></procedure>
+		</relative>
+	</procedures>
+	<classes>
+		<pacakage name="">
+			<class name="Form1" SourceFilePath="C:/oeworkspace/OOABL_Samples/ProceduresAndOOP/Form1.cls" RfilePath="C:/oeworkspace/OOABL_Samples/ProceduresAndOOP/Form1.r" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="Progress.Windows.Form" InterfaceNames="" ImportedPackages=""></class>
+		</pacakage>
+		<pacakage name="Samples">
+			<class name="Samples.Math" SourceFilePath="C:/oeworkspace/OOABL_Samples/ProceduresAndOOP/Samples/Math.cls" RfilePath="C:/oeworkspace/OOABL_Samples/ProceduresAndOOP/Samples/Math.r" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="Progress.Lang.Object" InterfaceNames="" ImportedPackages=""></class>
+		</pacakage>
+		<pacakage name="OOPExamples">
+			<class name="OOPExamples.Car" SourceFilePath="C:/oeworkspace/OOABL_Samples/ProceduresAndOOP/OOPExamples/Car.cls" RfilePath="C:/oeworkspace/OOABL_Samples/ProceduresAndOOP/OOPExamples/Car.r" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="OOPExamples.Vehicle" InterfaceNames="" ImportedPackages=""></class>
+			<class name="OOPExamples.Vehicle" SourceFilePath="C:/oeworkspace/OOABL_Samples/ProceduresAndOOP/OOPExamples/Vehicle.cls" RfilePath="C:/oeworkspace/OOABL_Samples/ProceduresAndOOP/OOPExamples/Vehicle.r" Abstract="false" Final="false" isInterface="false" isSerializable="false" SuperClassName="Progress.Lang.Object" InterfaceNames="" ImportedPackages=""></class>
+		</pacakage>
+	</classes>
+</libraryinfo>
